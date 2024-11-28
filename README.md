@@ -14,21 +14,19 @@ The link shortener allows users to convert long URLs into shorter, more manageab
 
 Features:
 
+->Shorten Links: Users can input long URLs and generate short, unique links for sharing.
+->Custom URLs: Optionally, users can customize the shortened URL slug for easier recall.
+->Redirects: Shortened links redirect users seamlessly to the original long URL.
+->Analytics: Basic analytics are provided, tracking the number of times a shortened link has been accessed.
 
-Shorten Links: Users can input long URLs and generate short, unique links for sharing.
-
-Custom URLs: Optionally, users can customize the shortened URL slug for easier recall.
-
-Redirects: Shortened links redirect users seamlessly to the original long URL.
-
-Analytics: Basic analytics are provided, tracking the number of times a shortened link has been accessed.
 
 
 Technologies Used:
-Node.js: JavaScript runtime used for server-side development.
-Express: Web framework for building the application's backend.
-MongoDB: NoSQL database for storing link mappings and analytics data.
-HTML/CSS/JavaScript: Frontend technologies for user interface and interactivity.
+
+->Node.js: JavaScript runtime used for server-side development.
+->Express: Web framework for building the application's backend.
+->MongoDB: NoSQL database for storing link mappings and analytics data.
+->HTML/CSS/JavaScript: Frontend technologies for user interface and interactivity.
 
 
 Setup:
